@@ -30,4 +30,4 @@ The npm script should populate `scripts/contractAddress.txt` with the locally de
 
 - `npx hardhat accounts`: Prints the list of accounts.
 - `npx hardhat price`: Prints the uniswap pool price.
-- `npx hardhat uri: Prints the current NFT URI.
+- `npx hardhat uri`: Prints the current NFT URI.
